@@ -1,0 +1,251 @@
+{
+  "project_info": {
+    "project_number": "71167988601",
+    "firebase_url": "https://testapp-f3f57.firebaseio.com",
+    "project_id": "testapp-f3f57",
+    "storage_bucket": "testapp-f3f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71167988601:android:afb17643f573291b",
+        "android_client_info": {
+          "package_name": "com.example.mugandaimo.crosstown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71167988601-c21k5fms7p40d78v4o0k8kflbf9ouqu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mugandaimo.crosstown",
+            "certificate_hash": "b048e8e69b28da9db86756a37ad4384ca097814b"
+          }
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBioLd_7EW_qKpSTH-do02edwRXQh9Yr_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71167988601:android:d078320f06e17812",
+        "android_client_info": {
+          "package_name": "com.example.mugandaimo.marikiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71167988601-u6gnt8e1mscjp4agv3fb882leeoejorj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mugandaimo.marikiti",
+            "certificate_hash": "b048e8e69b28da9db86756a37ad4384ca097814b"
+          }
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBioLd_7EW_qKpSTH-do02edwRXQh9Yr_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71167988601:android:01b3030472aeca93",
+        "android_client_info": {
+          "package_name": "com.example.mugandaimo.square"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71167988601-t384n4vpfbbhhmvsijg0iu73gs4jnckm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mugandaimo.square",
+            "certificate_hash": "b048e8e69b28da9db86756a37ad4384ca097814b"
+          }
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBioLd_7EW_qKpSTH-do02edwRXQh9Yr_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71167988601:android:8cc672a8a7e961f6",
+        "android_client_info": {
+          "package_name": "com.example.mugandaimo.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71167988601-v4quplfuhojhhdh27f91bfoi07gf9ck8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mugandaimo.testapp",
+            "certificate_hash": "b048e8e69b28da9db86756a37ad4384ca097814b"
+          }
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBioLd_7EW_qKpSTH-do02edwRXQh9Yr_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71167988601:android:c4eea7b18082ec98",
+        "android_client_info": {
+          "package_name": "com.example.mugandaimo.testauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71167988601-kds1dfihp216svjp4ipm3te5st0nvdbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mugandaimo.testauth",
+            "certificate_hash": "b048e8e69b28da9db86756a37ad4384ca097814b"
+          }
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBioLd_7EW_qKpSTH-do02edwRXQh9Yr_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71167988601-488654la9o88215h4sa4a5p6a7ks8oh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
